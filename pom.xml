@@ -127,7 +127,7 @@ under the License.
     <dependency>
       <groupId>org.apache.maven.plugin-tools</groupId>
       <artifactId>maven-plugin-tools-beanshell</artifactId>
-      <version>3.2</version>
+      <version>3.6.0</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
