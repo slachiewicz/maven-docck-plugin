@@ -62,7 +62,7 @@ under the License.
   </distributionManagement>
 
   <properties>
-    <mavenVersion>2.2.1</mavenVersion>
+    <mavenVersion>3.0</mavenVersion>
     <javaVersion>7</javaVersion>
   </properties>
 
@@ -116,7 +116,7 @@ under the License.
     <dependency>
       <groupId>org.apache.maven.plugin-tools</groupId>
       <artifactId>maven-plugin-tools-api</artifactId>
-      <version>3.2</version>
+      <version>3.4</version>
     </dependency>
     <dependency>
       <groupId>org.apache.maven.plugin-tools</groupId>
