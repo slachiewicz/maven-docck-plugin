@@ -116,7 +116,7 @@ under the License.
     <dependency>
       <groupId>org.apache.maven.plugin-tools</groupId>
       <artifactId>maven-plugin-tools-api</artifactId>
-      <version>3.2</version>
+      <version>3.6.1</version>
     </dependency>
     <dependency>
       <groupId>org.apache.maven.plugin-tools</groupId>
