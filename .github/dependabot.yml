@@ -1,0 +1,18 @@
+version: 2
+updates:
+- package-ecosystem: maven
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "04:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: org.apache.maven.plugin-tools:maven-plugin-tools-beanshell
+    versions:
+    - 3.6.0
+  - dependency-name: org.apache.maven.plugin-tools:maven-plugin-tools-java
+    versions:
+    - 3.6.0
+  - dependency-name: org.apache.maven.plugin-tools:maven-plugin-tools-api
+    versions:
+    - 3.6.0
